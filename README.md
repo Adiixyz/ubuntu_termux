@@ -16,3 +16,6 @@ $ bash install.sh
 ```cmd
 $ bash run.sh
 ```
+
+## THANKS TO
+[`PRoot Distro`](https://github.com/termux/proot-distro)
