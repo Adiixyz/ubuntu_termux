@@ -10,7 +10,7 @@ $ cd ubuntu_termux
 $ bash install.sh
 ```
 
-### install it without $ in [`#installing`](https://github.com/Adiixyz/ubuntu_termux#installing
+### install it without $ in [`#installing`](https://github.com/Adiixyz/ubuntu_termux#installing)
 
 ## Run...
 ```cmd
