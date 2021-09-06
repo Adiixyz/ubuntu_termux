@@ -1,4 +1,4 @@
-# ubuntu_termux
+# ubuntu-termux
 Install Ubuntu in Termux
 
 ## Installing
@@ -16,6 +16,9 @@ $ bash install.sh
 ```cmd
 $ bash run.sh
 ```
+# Run Simply
+Run `simple.sh` first
+- Once youre done. type `ubuntu`
 
 ## THANKS TO
 [`PRoot Distro`](https://github.com/termux/proot-distro)
