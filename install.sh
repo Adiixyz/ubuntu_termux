@@ -11,6 +11,8 @@ echo "Installing Ubuntu..."
 
 proot-distro install ubuntu
 
-figlet -c Done!
+echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
 
-echo "To run Ubuntu... \"bash run.sh\" ok?"
+echo "done"
+
+echo "To run Ubuntu... \"ubuntu\" ok?"
